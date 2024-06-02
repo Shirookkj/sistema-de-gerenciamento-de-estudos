@@ -9,3 +9,8 @@ Além disso, ao usar a ferramenta de planejamento de estudos, é possível criar
 Por fim, as notificações personalizadas ajudarão os alunos a evitar atrasos e gerenciar melhor o tempo informando-os sempre sobre seus compromissos e prazos.
 
 ![image](https://github.com/Shirookkj/sistema-de-gerenciamento-de-estudos/assets/106315431/b105826c-d0dd-4c36-92d3-6114ab3c7b72)
+
+![prototipo img 1](https://github.com/Shirookkj/sistema-de-gerenciamento-de-estudos/assets/106315431/b63a96f6-dedc-4dd9-b9d1-69c566fca63f)
+![prototipo img 2](https://github.com/Shirookkj/sistema-de-gerenciamento-de-estudos/assets/106315431/f4fa893d-eaff-4bea-baa6-4c16cabd864c)
+![prototipo img 3](https://github.com/Shirookkj/sistema-de-gerenciamento-de-estudos/assets/106315431/1f0bddc3-7330-42b8-bda8-de094e568b6f)
+![prototipo img 4](https://github.com/Shirookkj/sistema-de-gerenciamento-de-estudos/assets/106315431/e6633d38-8af9-4442-9d6d-0dbddb16495d)
